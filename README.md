@@ -1,5 +1,7 @@
 # AWS ECS Architecture 
 
+![Architecture Diagram](terraform_architecture.png)
+
 A highly available and secure AWS architecture designed for hosting containerized applications using Amazon ECS and Amazon RDS PostgreSQL.The solution leverages an Application Load Balancer, private application and database subnets, Security Groups, and  deployment to ensure scalability, reliability, and controlled network access.
 
 ## Components
